@@ -9,9 +9,9 @@ By the end of tutorial, you should have a basic knowledge of:
 - how to specify the location of a file or directory on my computer (using absolute and relative path)
 - the most commonly used shell commands (and use options and arguments to change the behaviour of them)
 - how to seek for help (besides Google)
-- Construct command pipelines with two or more stages
+- how to construct command pipelines with two or more stages
 - write simple loops
 - write a shell script
 - find things (files/folders or things in files)
 
-We will go over snippets of this material next Tuesday but if you have major issues, please contact me.
+We will go over snippets of this material next Tuesday but if you have major issues during your preparation for the class, please contact me.
