@@ -2,7 +2,7 @@
 
 You first homework assigment is to go through [The Unix Shell](https://swcarpentry.github.io/shell-novice/) tutorial from [Software Carpentry](https://software-carpentry.org/).
 
-You will be working on your local machine. [Download](https://swcarpentry.github.io/shell-novice/setup.html) the required material and follow the detailed instructions. Please complete all sessions before the next class. It is a long tutorial but it is necessary to build a good foundation of Unix at the beginning of the class.
+You will be working on your local machine. [Download](https://swcarpentry.github.io/shell-novice/setup.html) the required material and follow the detailed instructions. Please complete all sessions before the next class. It is a long tutorial but it is necessary to build a good foundation of Unix at the beginning of the course.
 
 By the end of tutorial, you should have a basic knowledge of:
 - moving around your computer using your terminal
