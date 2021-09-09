@@ -6,12 +6,12 @@ You will be working on your local machine. [Download](https://swcarpentry.github
 
 By the end of tutorial, you should have a basic knowledge of:
 - moving around your computer using your terminal
-- how to specify the location of a file or directory on my computer (using absolute and relative path)
+- specifying the location of a file or directory on my computer (using absolute and relative path)
 - the most commonly used shell commands (and use options and arguments to change the behaviour of them)
-- how to seek for help (besides Google)
-- how to construct command pipelines with two or more stages
-- write simple loops
-- write a shell script
-- find things (files/folders or things in files)
+- seeking for help (besides Google)
+- constructing command pipelines with two or more stages
+- writing simple loops
+- writing a shell script
+- finding things (files/folders or things in files)
 
 We will go over snippets of this material next Tuesday but if you have major issues during your preparation for the class, please contact me.
