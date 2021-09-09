@@ -7,7 +7,7 @@ You will be working on your local machine. [Download](https://swcarpentry.github
 By the end of tutorial, you should have a basic knowledge of:
 - moving around your computer using your terminal
 - specifying the location of a file or directory on my computer (using absolute and relative path)
-- the most commonly used shell commands (and use options and arguments to change the behaviour of them)
+- the most [commonly used shell commands](https://github.com/2021-environmental-bioinformatics/EnvBio2021-Unix) (and use options and arguments to change the behaviour of them)
 - seeking for help (besides Google)
 - constructing command pipelines with two or more stages
 - writing simple loops
